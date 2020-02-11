@@ -164,11 +164,11 @@ msgstr "Не удается подключиться к Интернету. Пр
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to ravend to get live updates from the p2p network. (Tried "
-"connecting to ravend at {{host}}:{{port}} and failed.)"
+"Can't connect to b4bd to get live updates from the p2p network. (Tried "
+"connecting to b4bd at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Невозможно подключиться к ravend для получения живых обновлений из сети p2p. "
-"(Пробовал подключиться к ravend на {{host}}: {{port}} и не удалось.)"
+"Невозможно подключиться к b4bd для получения живых обновлений из сети p2p. "
+"(Пробовал подключиться к b4bd на {{host}}: {{port}} и не удалось.)"
 
 #: public/views/rich_list.html
 msgid "Coins"
@@ -199,8 +199,8 @@ msgid "Connections to other nodes"
 msgstr "Соединения с другими узлами"
 
 #: public/views/status.html
-msgid "Current Blockchain Tip (ravencore)"
-msgstr "Текущий бит-код (ravencore)"
+msgid "Current Blockchain Tip (b4bcore)"
+msgstr "Текущий бит-код (b4bcore)"
 
 #: public/views/statistics.html
 msgid "Current Network Hashrate"
@@ -308,8 +308,8 @@ msgid "Last Block"
 msgstr "Последний блок"
 
 #: public/views/status.html
-msgid "Last Block Hash (ravend)"
-msgstr "Последний блочный хэш (ravend)"
+msgid "Last Block Hash (b4bd)"
+msgstr "Последний блочный хэш (b4bd)"
 
 #: public/views/block_list.html
 msgid "Lastest block from date"
@@ -477,40 +477,40 @@ msgid "Rank"
 msgstr "Ранг"
 
 #: public/views/charts.html
-msgid "Ravencoin Circulation"
-msgstr "Ravencoin циркуляция"
+msgid "B4bcoin Circulation"
+msgstr "B4bcoin циркуляция"
 
 #: public/views/messages_verify.html
-msgid "Ravencoin comes with a way of signing arbitrary messages."
-msgstr "Ravencoin имеет способ подписания произвольных сообщений."
+msgid "B4bcoin comes with a way of signing arbitrary messages."
+msgstr "B4bcoin имеет способ подписания произвольных сообщений."
 
 #: public/views/index.html
-msgid "Ravencoin Community"
-msgstr "Сообщество Ravencoin"
+msgid "B4bcoin Community"
+msgstr "Сообщество B4bcoin"
 
 #: public/views/rich_list.html
-msgid "Ravencoin Distribution"
-msgstr "Ravencoin распределение"
+msgid "B4bcoin Distribution"
+msgstr "B4bcoin распределение"
 
 #: public/views/statistics.html
-msgid "Ravencoin Mined:"
-msgstr "Ravencoin Заминированный:"
+msgid "B4bcoin Mined:"
+msgstr "B4bcoin Заминированный:"
 
 #: public/views/pools.html
-msgid "Ravencoin Pools"
-msgstr "Ravencoin бассейны"
+msgid "B4bcoin Pools"
+msgstr "B4bcoin бассейны"
 
 #: public/views/statistics.html
-msgid "Ravencoin Pools Stats"
-msgstr "Ravencoin Статистика пулов"
+msgid "B4bcoin Pools Stats"
+msgstr "B4bcoin Статистика пулов"
 
 #: public/views/statistics.html
-msgid "Ravencoin Statistics for the last 24 hours"
-msgstr "Ravencoin Статистика за последние 24 часа"
+msgid "B4bcoin Statistics for the last 24 hours"
+msgstr "B4bcoin Статистика за последние 24 часа"
 
 #: public/views/index.html
-msgid "Ravencore"
-msgstr "Ravencore"
+msgid "B4bcore"
+msgstr "B4bcore"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data"
@@ -616,8 +616,8 @@ msgid "Synced Blocks"
 msgstr "Синхронизированные блоки"
 
 #: public/views/charts.html
-msgid "The current supply of Ravencoin on the network."
-msgstr "Текущая поставка Ravencoin в сети."
+msgid "The current supply of B4bcoin on the network."
+msgstr "Текущая поставка B4bcoin в сети."
 
 #: public/views/dummy-translations.html
 msgid "The daily average of fees paid to miners per transaction."
@@ -650,15 +650,15 @@ msgstr "С этим адресом нет транзакций."
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Ravencoin network."
+"        the B4bcoin network."
 msgstr ""
 "Эта форма может использоваться для трансляции исходной транзакции\n"
-"        в шестнадцатеричном формате сети Ravencoin."
+"        в шестнадцатеричном формате сети B4bcoin."
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Ravencoin address."
+"        a specific B4bcoin address."
 msgstr ""
 "Эта форма может использоваться для проверки того, что\n"
 "        сообщение поступает из конкретный адрес Равенкойна."

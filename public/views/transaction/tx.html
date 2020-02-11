@@ -104,7 +104,7 @@
               </div>
               <div class="ellipsis">
                 <span data-ng-show="vout.notAddr" data-ng-repeat="address in vout.scriptPubKey.addresses">{{address}}</span>
-				<span class="text-muted" title="Current Ravencoin Address" data-ng-show="address == $root.currentAddr" data-ng-repeat="address in vout.scriptPubKey.addresses">{{address}}</span>
+				<span class="text-muted" title="Current B4Bcoin Address" data-ng-show="address == $root.currentAddr" data-ng-repeat="address in vout.scriptPubKey.addresses">{{address}}</span>
 				<a href="address/{{address}}" data-ng-show="!vout.notAddr && address != $root.currentAddr" data-ng-repeat="address in vout.scriptPubKey.addresses">{{address}}</a>
                 <span data-ng-show="vout.addressMatch" class="text-success">(Return)</span>
               </div>
